@@ -1,0 +1,15 @@
+{
+  "name": "harp-browserify-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "harp": "https://github.com/zeke/harp/tarball/browserify",
+    "domready": "~0.2.13"
+  }
+}
