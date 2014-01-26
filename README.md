@@ -1,6 +1,9 @@
 # Harp Browserify Test
 
-A sample app for testing a fork of Harp with browserify support.
+A sample app for testing a fork of harp (and terraform) with browserify support.
+
+- https://github.com/zeke/harp/tree/browserify
+- https://github.com/zeke/terraform/tree/browserify
 
 ## Usage
 
